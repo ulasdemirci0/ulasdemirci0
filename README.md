@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning C#,PHP
 - 📫 How to reach me www.instagram.com/ulas.php
 
-Hey that is webhook test!
+Hey we connected with discord pal!
